@@ -1,6 +1,6 @@
 # Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://expo.dev/accounts/tobbyy/projects/SenCalc/builds/04fe5d99-e647-4c25-a6d7-707a8ca7edcc).
 
 ## Get started
 
